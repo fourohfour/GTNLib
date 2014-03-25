@@ -1,0 +1,5 @@
+name: GTNLib
+main: io.github.fourohfour.gtnlib.GTNLib
+version: 1.0
+author: FourOhFour
+description: Library for handling gtn files
